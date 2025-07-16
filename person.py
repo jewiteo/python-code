@@ -1,4 +1,4 @@
-from job.job import Job
+from job import Job
 
 class Person:
     name = 'John Smith'
